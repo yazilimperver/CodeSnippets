@@ -18,7 +18,7 @@ Sevgili yazılımperver dostlarım. Bu repo içerisinde, yazılarımda sizler il
 
 
 ## ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+)  İşletim Sistemleri
-*Bu başlık altında, çeşitli işletim sistemlerinde kullanabileceğiniz komutlar ya da işletim spesifik kabliyetlere ilişkin kodlar ya da benzeri işlevere ilişkin kod ve komutlar olacak*
+`Bu başlık altında, çeşitli işletim sistemlerinde kullanabileceğiniz komutlar ya da işletim spesifik kabliyetlere ilişkin kodlar ya da benzeri işlevere ilişkin kod ve komutlar olacak`
 
 ### Linux
 
