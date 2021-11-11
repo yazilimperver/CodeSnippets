@@ -3,10 +3,7 @@
  * @author  Yazılımperver
  * @brief   VxWorks icin CMOS'dan verileri okuyup tarihi ve saati ayarlamak icin kullanilabilecek kod
  * @version 0.1
- * @date    2021-11-10
- * 
- * @copyright Copyright (c) 2021
- * 
+ * @date    2021-11-10 
  */
 
 #include "vxWorks.h"
