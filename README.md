@@ -21,6 +21,8 @@ Sevgili yazılımperver dostlarım. Bu repo içerisinde, yazılarımda sizler il
 ### Çeşitli
 *Modern C++ kullanarak, yukarıdaki iki gruba da girmeyen kod parçaları bu başlık altında olacak :)*
 
+* [fmt kütüphanesi örnekleri] (https://www.yazilimperver.com/index.php/2021/11/29/haftalik-c-43-fmt-kutuphanesi/) - https://www.yazilimperver.com/index.php/2021/11/29/haftalik-c-43-fmt-kutuphanesi/
+
 
 ## ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+)  İşletim Sistemleri
 `Bu başlık altında, çeşitli işletim sistemlerinde kullanabileceğiniz komutlar ya da işletim spesifik kabliyetlere ilişkin kodlar ya da benzeri işlevere ilişkin kod ve komutlar olacak`
