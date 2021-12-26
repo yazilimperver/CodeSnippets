@@ -16,9 +16,9 @@ Sevgili yazılımperver dostlarım. Bu repo içerisinde, yazılarımda sizler il
 
 ### Yardımcı
 *Modern C++ kullanarak gerçekleştirebileceğiniz basit işlevlere ilişkin kodlar bu başlıkta olacak*
-* [UnboundedSharedQueue](https://github.com/yazilimperver/CodeSnippets/blob/main/Utilities/UnboundedSharedQueue.h)Sınırsız (unbounded) sayıda unsur içerebilen, thread-safe kuyruk
-* [BoundedSharedQueue](https://github.com/yazilimperver/CodeSnippets/blob/main/Utilities/BoundedSharedQueue.h) Sınırlı (unbounded) sayıda unsur içerebilen, thread-safe kuyruk
-* [ActiveObject](https://github.com/yazilimperver/CodeSnippets/blob/main/Utilities/ActiveObject.h) Örnek bir aktif nesne sınıfı
+* [UnboundedSharedQueue](https://github.com/yazilimperver/CodeSnippets/blob/main/Utilities/UnboundedSharedQueue.h): Sınırsız (unbounded) sayıda unsur içerebilen, thread-safe kuyruk
+* [BoundedSharedQueue](https://github.com/yazilimperver/CodeSnippets/blob/main/Utilities/BoundedSharedQueue.h): Sınırlı (unbounded) sayıda unsur içerebilen, thread-safe kuyruk
+* [ActiveObject](https://github.com/yazilimperver/CodeSnippets/blob/main/Utilities/ActiveObject.h): Örnek bir aktif nesne sınıfı
 
 ### Çeşitli
 *Modern C++ kullanarak, yukarıdaki iki gruba da girmeyen kod parçaları bu başlık altında olacak :)*
