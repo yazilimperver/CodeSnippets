@@ -2,6 +2,7 @@
  * @file    SetTimeFromCMOS.cpp
  * @author  Yazılımperver
  * @brief   VxWorks icin CMOS'dan verileri okuyup tarihi ve saati ayarlamak icin kullanilabilecek kod
+ *          İlgili yazi: https://www.yazilimperver.com/index.php/2021/11/12/haftalik-c-42-vxworks-icin-saat-guncelleme/
  * @version 0.1
  * @date    2021-11-10 
  */
