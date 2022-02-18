@@ -9,8 +9,8 @@ Sevgili yazılımperver dostlarım. Bu repo içerisinde, yazılarımda sizler il
 ### C++ 11/14/17
 *Özellikle C++'ın kabiliyetine ilişkin kodlar bu başlıkta olacak*
 
-* [ChronoUtil](https://www.yazilimperver.com/index.php/2021/08/16/haftalik-c-39-stdchrono-2-clocks-time_point/) - https://www.yazilimperver.com/index.php/2021/08/16/haftalik-c-39-stdchrono-2-clocks-time_point/,
-* [Timestamp](https://www.yazilimperver.com/index.php/2020/11/09/haftalik-c-33-zaman-bilgisi-etiketi/) - https://www.yazilimperver.com/index.php/2020/11/09/haftalik-c-33-zaman-bilgisi-etiketi/,
+* [ChronoUtil](https://www.yazilimperver.com/index.php/2021/08/16/haftalik-c-39-stdchrono-2-clocks-time_point/) - https://github.com/yazilimperver/CodeSnippets/blob/main/CPlusPlus/ChronoUtil.h,
+* [Timestamp](https://www.yazilimperver.com/index.php/2020/11/09/haftalik-c-33-zaman-bilgisi-etiketi/) - https://github.com/yazilimperver/CodeSnippets/blob/main/CPlusPlus/Timestamp.cpp,
 
 
 
