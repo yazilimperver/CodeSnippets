@@ -33,5 +33,6 @@ Sevgili yazılımperver dostlarım. Bu repo içerisinde, yazılarımda sizler il
 
 
 ### VxWorks
+* [SetTimeFromCMOS](https://github.com/yazilimperver/CodeSnippets/blob/main/VxWorks/SetTimeFromCMOS.cpp):  VxWorks için saat güncelleme
 
 ## ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+)  Diğer
